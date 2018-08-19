@@ -1,0 +1,14 @@
+{
+    // Theme  and Looks
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "window.titleBarStyle": "custom",
+    // Auto save
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 10000,
+    //python
+    "python.linting.enabled": false,
+    "python.jediEnabled": false,
+    "python.unitTest.autoTestDiscoverOnSaveEnabled": false,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+}
